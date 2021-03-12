@@ -473,10 +473,12 @@ section {
     font-weight: 600;
     cursor: pointer;
 }
-
+.elfsight-app-c0434b60-abb7-4ed4-8339-fd1d2d862f5f{
+    bottom: 13rem;
+}
 .back-to-top {
     position: fixed;
-    bottom: 7rem;
+    bottom: 9rem;
     right: 2rem;
     border-radius: 0.625rem;
     background-color: var(--primary-color);
