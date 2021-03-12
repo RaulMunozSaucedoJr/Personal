@@ -476,8 +476,8 @@ section {
 
 .back-to-top {
     position: fixed;
-    bottom: 4rem;
-    right: 4.375rem;
+    bottom: 7rem;
+    right: 2rem;
     border-radius: 0.625rem;
     background-color: var(--primary-color);
     color: var(--white);
