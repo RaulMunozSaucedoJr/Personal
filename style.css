@@ -474,7 +474,11 @@ section {
     cursor: pointer;
 }
 .elfsight-app-c0434b60-abb7-4ed4-8339-fd1d2d862f5f{
+    position: fixed;
     bottom: 13rem;
+    display: flex;
+    align-items: center;
+    justify-content: center; z-index: 99;
 }
 .back-to-top {
     position: fixed;
