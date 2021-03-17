@@ -34,7 +34,9 @@ a {
     text-decoration: none;
 }
 
-
+small{
+    font-size: 0.3rem;
+}
 
 i#Tecnologias {
     margin: 0 1rem 0 0;
