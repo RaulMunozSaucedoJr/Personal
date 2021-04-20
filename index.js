@@ -1,6 +1,6 @@
 // back tot top
 
-let backToTopBtn = document.querySelector('.back-to-top')
+let backToTopBtn = document.querySelector('.back-to-top');
 
 window.onscroll = () => {
     if (document.body.scrollTop > 200 || document.documentElement.scrollTop > 200) {
