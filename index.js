@@ -1,9 +1,4 @@
-Swal.fire({
-    imageUrl: '/assets/Carta de Recomendacion.png',
-    imageHeight: 800,
-    html: '<b>Carta de Recomendación</b>, ' +
-        '<a href="/Carta-de-recomendacion-laboral Raúl Jasiel Uriel Muñoz Saucedo, .pdf" download="/Carta-de-recomendacion-laboral Raúl Jasiel Uriel Muñoz Saucedo, .pdf"> '
-})
+
 // back tot top
 
 let backToTopBtn = document.querySelector('.back-to-top');
